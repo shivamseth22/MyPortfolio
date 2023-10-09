@@ -1,1 +1,1 @@
-const mypic = ""
+const reactImg = ""
