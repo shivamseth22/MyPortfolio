@@ -2,7 +2,7 @@ import React from "react";
 import mypic from "../assets/mypic.png";
 const Home = () => {
   return (
-    <div className="bg-black flex justify-center  p-40">
+    <div id="home" className="bg-black flex justify-center  p-40">
       <div className="text-white ">
         <h3 className="text-3xl text-green-400 p-3 font-bold">Hello,</h3>
         <h2 className="text-5xl p-3 font-bold">
